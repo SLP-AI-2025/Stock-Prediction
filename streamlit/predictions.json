@@ -1,0 +1,1262 @@
+[
+  {
+    "Date": "2025-08-08",
+    "ticker": "AAPL",
+    "close": 229.0900115966797,
+    "proba_up": 0.47822000482346105,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-11",
+    "ticker": "AAPL",
+    "close": 227.17999267578125,
+    "proba_up": 0.4502329181034287,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-12",
+    "ticker": "AAPL",
+    "close": 229.6499938964844,
+    "proba_up": 0.46002566350779384,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-13",
+    "ticker": "AAPL",
+    "close": 233.3300018310547,
+    "proba_up": 0.4620954830803293,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-14",
+    "ticker": "AAPL",
+    "close": 232.77999877929688,
+    "proba_up": 0.4529769241403096,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-15",
+    "ticker": "AAPL",
+    "close": 231.58999633789065,
+    "proba_up": 0.4618763646158149,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-18",
+    "ticker": "AAPL",
+    "close": 230.88999938964844,
+    "proba_up": 0.45898718241462083,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-19",
+    "ticker": "AAPL",
+    "close": 230.55999755859372,
+    "proba_up": 0.45789654239011435,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-20",
+    "ticker": "AAPL",
+    "close": 226.00999450683597,
+    "proba_up": 0.4594125597939269,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-21",
+    "ticker": "AAPL",
+    "close": 224.8999938964844,
+    "proba_up": 0.46989181947338254,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-22",
+    "ticker": "AAPL",
+    "close": 227.75999450683597,
+    "proba_up": 0.5001097181440747,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-25",
+    "ticker": "AAPL",
+    "close": 227.16000366210935,
+    "proba_up": 0.4933312613889178,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-26",
+    "ticker": "AAPL",
+    "close": 229.30999755859372,
+    "proba_up": 0.5053423999665178,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-27",
+    "ticker": "AAPL",
+    "close": 230.4900054931641,
+    "proba_up": 0.5115836034963617,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-28",
+    "ticker": "AAPL",
+    "close": 232.55999755859372,
+    "proba_up": 0.5195893804157559,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-29",
+    "ticker": "AAPL",
+    "close": 232.13999938964844,
+    "proba_up": 0.511420394337734,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-02",
+    "ticker": "AAPL",
+    "close": 229.72000122070312,
+    "proba_up": 0.5131118334551183,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-03",
+    "ticker": "AAPL",
+    "close": 238.47000122070312,
+    "proba_up": 0.5143887763961883,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-04",
+    "ticker": "AAPL",
+    "close": 239.77999877929688,
+    "proba_up": 0.5011372719577487,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-05",
+    "ticker": "AAPL",
+    "close": 239.69000244140625,
+    "proba_up": 0.49684948852820726,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-08",
+    "ticker": "AAPL",
+    "close": 237.8800048828125,
+    "proba_up": 0.4926881856486572,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-09",
+    "ticker": "AAPL",
+    "close": 234.3500061035156,
+    "proba_up": 0.489016695761644,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-10",
+    "ticker": "AAPL",
+    "close": 226.7899932861328,
+    "proba_up": 0.4724539826395835,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-11",
+    "ticker": "AAPL",
+    "close": 230.02999877929688,
+    "proba_up": 0.4928687945563692,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-12",
+    "ticker": "AAPL",
+    "close": 234.07000732421875,
+    "proba_up": 0.4921887242193944,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-15",
+    "ticker": "AAPL",
+    "close": 236.6999969482422,
+    "proba_up": 0.4853472445478361,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-16",
+    "ticker": "AAPL",
+    "close": 238.1499938964844,
+    "proba_up": 0.4844360377270014,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-17",
+    "ticker": "AAPL",
+    "close": 238.9900054931641,
+    "proba_up": 0.496035509005324,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-18",
+    "ticker": "AAPL",
+    "close": 237.8800048828125,
+    "proba_up": 0.4941023001037413,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-19",
+    "ticker": "AAPL",
+    "close": 245.5,
+    "proba_up": 0.4975154364670274,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-22",
+    "ticker": "AAPL",
+    "close": 256.0799865722656,
+    "proba_up": 0.4833195096245768,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-23",
+    "ticker": "AAPL",
+    "close": 254.42999267578125,
+    "proba_up": 0.463218232335605,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-24",
+    "ticker": "AAPL",
+    "close": 252.30999755859372,
+    "proba_up": 0.4779997399177632,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-25",
+    "ticker": "AAPL",
+    "close": 256.8699951171875,
+    "proba_up": 0.4885978066846931,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-26",
+    "ticker": "AAPL",
+    "close": 255.4600067138672,
+    "proba_up": 0.47256279879989743,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-29",
+    "ticker": "AAPL",
+    "close": 254.42999267578125,
+    "proba_up": 0.4698154208081402,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-30",
+    "ticker": "AAPL",
+    "close": 254.6300048828125,
+    "proba_up": 0.4623409767791417,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-01",
+    "ticker": "AAPL",
+    "close": 255.4499969482422,
+    "proba_up": 0.46458916953482443,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-02",
+    "ticker": "AAPL",
+    "close": 257.1300048828125,
+    "proba_up": 0.46922533928898197,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-03",
+    "ticker": "AAPL",
+    "close": 258.0199890136719,
+    "proba_up": 0.47543915834996464,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-06",
+    "ticker": "AAPL",
+    "close": 256.69000244140625,
+    "proba_up": 0.4980312981164626,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-07",
+    "ticker": "AAPL",
+    "close": 256.4800109863281,
+    "proba_up": 0.5026219001128204,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-08",
+    "ticker": "AAPL",
+    "close": 258.0599975585937,
+    "proba_up": 0.5060390346592663,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-09",
+    "ticker": "AAPL",
+    "close": 254.0399932861328,
+    "proba_up": 0.5076239101201125,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-10",
+    "ticker": "AAPL",
+    "close": 245.2700042724609,
+    "proba_up": 0.5043561814900704,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-13",
+    "ticker": "AAPL",
+    "close": 247.66000366210935,
+    "proba_up": 0.5221095892765796,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-14",
+    "ticker": "AAPL",
+    "close": 247.7700042724609,
+    "proba_up": 0.5155180004962321,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-15",
+    "ticker": "AAPL",
+    "close": 249.33999633789065,
+    "proba_up": 0.5243884498871616,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-16",
+    "ticker": "AAPL",
+    "close": 247.4499969482422,
+    "proba_up": 0.5189900914674087,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-17",
+    "ticker": "AAPL",
+    "close": 252.2899932861328,
+    "proba_up": 0.5183673768126071,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-20",
+    "ticker": "AAPL",
+    "close": 262.239990234375,
+    "proba_up": 0.5022178810369676,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-21",
+    "ticker": "AAPL",
+    "close": 262.7699890136719,
+    "proba_up": 0.48047080394635566,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-22",
+    "ticker": "AAPL",
+    "close": 258.45001220703125,
+    "proba_up": 0.47264817441203294,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-23",
+    "ticker": "AAPL",
+    "close": 259.5799865722656,
+    "proba_up": 0.48543495371404843,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-24",
+    "ticker": "AAPL",
+    "close": 262.82000732421875,
+    "proba_up": 0.5005150678528153,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-27",
+    "ticker": "AAPL",
+    "close": 268.8099975585937,
+    "proba_up": 0.4992777074572545,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-28",
+    "ticker": "AAPL",
+    "close": 269.0,
+    "proba_up": 0.4875610352747543,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-29",
+    "ticker": "AAPL",
+    "close": 269.70001220703125,
+    "proba_up": 0.4829047361845813,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-30",
+    "ticker": "AAPL",
+    "close": 271.3999938964844,
+    "proba_up": 0.473981469943538,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-31",
+    "ticker": "AAPL",
+    "close": 270.3699951171875,
+    "proba_up": 0.4702997224134535,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-08",
+    "ticker": "MSFT",
+    "close": 521.1832275390625,
+    "proba_up": 0.4698237777930256,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-11",
+    "ticker": "MSFT",
+    "close": 520.9136962890625,
+    "proba_up": 0.4669000034609598,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-12",
+    "ticker": "MSFT",
+    "close": 528.3713989257812,
+    "proba_up": 0.47144720874458473,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-13",
+    "ticker": "MSFT",
+    "close": 519.7256469726562,
+    "proba_up": 0.4590109873915353,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-14",
+    "ticker": "MSFT",
+    "close": 521.6224975585938,
+    "proba_up": 0.48844077116592094,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-15",
+    "ticker": "MSFT",
+    "close": 519.3162841796875,
+    "proba_up": 0.48860722495603226,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-18",
+    "ticker": "MSFT",
+    "close": 516.2512817382812,
+    "proba_up": 0.4998096538080881,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-19",
+    "ticker": "MSFT",
+    "close": 508.933349609375,
+    "proba_up": 0.5011565025107408,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-20",
+    "ticker": "MSFT",
+    "close": 504.8900146484375,
+    "proba_up": 0.5195621643342131,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-21",
+    "ticker": "MSFT",
+    "close": 504.239990234375,
+    "proba_up": 0.521804155635135,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-22",
+    "ticker": "MSFT",
+    "close": 507.2300109863281,
+    "proba_up": 0.533646758690458,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-25",
+    "ticker": "MSFT",
+    "close": 504.260009765625,
+    "proba_up": 0.5261897168243427,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-26",
+    "ticker": "MSFT",
+    "close": 502.0400085449219,
+    "proba_up": 0.5348383914305154,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-27",
+    "ticker": "MSFT",
+    "close": 506.739990234375,
+    "proba_up": 0.5345497038654057,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-28",
+    "ticker": "MSFT",
+    "close": 509.6400146484375,
+    "proba_up": 0.529127805530357,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-29",
+    "ticker": "MSFT",
+    "close": 506.6900024414063,
+    "proba_up": 0.523791961236747,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-02",
+    "ticker": "MSFT",
+    "close": 505.1199951171875,
+    "proba_up": 0.5334004947987856,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-03",
+    "ticker": "MSFT",
+    "close": 505.3500061035156,
+    "proba_up": 0.5343562062656673,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-04",
+    "ticker": "MSFT",
+    "close": 507.9700012207031,
+    "proba_up": 0.536632460760007,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-05",
+    "ticker": "MSFT",
+    "close": 495.0,
+    "proba_up": 0.5114331422531516,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-08",
+    "ticker": "MSFT",
+    "close": 498.2000122070313,
+    "proba_up": 0.5245179099734941,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-09",
+    "ticker": "MSFT",
+    "close": 498.4100036621094,
+    "proba_up": 0.517190193342289,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-10",
+    "ticker": "MSFT",
+    "close": 500.3699951171875,
+    "proba_up": 0.5137432588901711,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-11",
+    "ticker": "MSFT",
+    "close": 501.010009765625,
+    "proba_up": 0.5131370995570919,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-12",
+    "ticker": "MSFT",
+    "close": 509.8999938964844,
+    "proba_up": 0.5102556508151959,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-15",
+    "ticker": "MSFT",
+    "close": 515.3599853515625,
+    "proba_up": 0.49744180654603914,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-16",
+    "ticker": "MSFT",
+    "close": 509.0400085449219,
+    "proba_up": 0.4844504388435551,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-17",
+    "ticker": "MSFT",
+    "close": 510.0199890136719,
+    "proba_up": 0.49398858619413877,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-18",
+    "ticker": "MSFT",
+    "close": 508.4500122070313,
+    "proba_up": 0.49416072977594655,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-19",
+    "ticker": "MSFT",
+    "close": 517.9299926757812,
+    "proba_up": 0.5057565073058673,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-22",
+    "ticker": "MSFT",
+    "close": 514.4500122070312,
+    "proba_up": 0.4913443323692391,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-23",
+    "ticker": "MSFT",
+    "close": 509.2300109863281,
+    "proba_up": 0.4905964006690207,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-24",
+    "ticker": "MSFT",
+    "close": 510.1499938964844,
+    "proba_up": 0.49849486630242335,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-25",
+    "ticker": "MSFT",
+    "close": 507.0299987792969,
+    "proba_up": 0.48535899739829413,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-26",
+    "ticker": "MSFT",
+    "close": 511.4599914550781,
+    "proba_up": 0.49748522056179884,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-29",
+    "ticker": "MSFT",
+    "close": 514.5999755859375,
+    "proba_up": 0.4960737102398107,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-30",
+    "ticker": "MSFT",
+    "close": 517.9500122070312,
+    "proba_up": 0.4978753365468553,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-01",
+    "ticker": "MSFT",
+    "close": 519.7100219726562,
+    "proba_up": 0.49498970348233345,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-02",
+    "ticker": "MSFT",
+    "close": 515.739990234375,
+    "proba_up": 0.4952338167725843,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-03",
+    "ticker": "MSFT",
+    "close": 517.3499755859375,
+    "proba_up": 0.5110934986694656,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-06",
+    "ticker": "MSFT",
+    "close": 528.5700073242188,
+    "proba_up": 0.5004164976163096,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-07",
+    "ticker": "MSFT",
+    "close": 523.97998046875,
+    "proba_up": 0.4887173812334686,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-08",
+    "ticker": "MSFT",
+    "close": 524.8499755859375,
+    "proba_up": 0.4926930462424586,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-09",
+    "ticker": "MSFT",
+    "close": 522.4000244140625,
+    "proba_up": 0.4972663291392254,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-10",
+    "ticker": "MSFT",
+    "close": 510.9599914550781,
+    "proba_up": 0.48533804861465085,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-13",
+    "ticker": "MSFT",
+    "close": 514.0499877929688,
+    "proba_up": 0.4964478141719677,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-14",
+    "ticker": "MSFT",
+    "close": 513.5700073242188,
+    "proba_up": 0.4953459760257641,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-15",
+    "ticker": "MSFT",
+    "close": 513.4299926757812,
+    "proba_up": 0.49472172271715853,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-16",
+    "ticker": "MSFT",
+    "close": 511.6099853515625,
+    "proba_up": 0.49932933145778874,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-17",
+    "ticker": "MSFT",
+    "close": 513.5800170898438,
+    "proba_up": 0.5039713510523202,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-20",
+    "ticker": "MSFT",
+    "close": 516.7899780273438,
+    "proba_up": 0.5140705186452954,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-21",
+    "ticker": "MSFT",
+    "close": 517.6599731445312,
+    "proba_up": 0.5128805968554471,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-22",
+    "ticker": "MSFT",
+    "close": 520.5399780273438,
+    "proba_up": 0.5080587736258647,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-23",
+    "ticker": "MSFT",
+    "close": 520.5599975585938,
+    "proba_up": 0.5060249331416521,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-24",
+    "ticker": "MSFT",
+    "close": 523.6099853515625,
+    "proba_up": 0.5321529658869601,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-27",
+    "ticker": "MSFT",
+    "close": 531.52001953125,
+    "proba_up": 0.5180730421935329,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-28",
+    "ticker": "MSFT",
+    "close": 542.0700073242188,
+    "proba_up": 0.5067428434383894,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-29",
+    "ticker": "MSFT",
+    "close": 541.5499877929688,
+    "proba_up": 0.4912827276130095,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-30",
+    "ticker": "MSFT",
+    "close": 525.760009765625,
+    "proba_up": 0.4605718275066119,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-31",
+    "ticker": "MSFT",
+    "close": 517.8099975585938,
+    "proba_up": 0.47376288805656047,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-08",
+    "ticker": "SPY",
+    "close": 635.4183349609375,
+    "proba_up": 0.49781762066434754,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-11",
+    "ticker": "SPY",
+    "close": 634.1618041992188,
+    "proba_up": 0.49334758509346754,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-12",
+    "ticker": "SPY",
+    "close": 640.9131469726562,
+    "proba_up": 0.4966501789921791,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-13",
+    "ticker": "SPY",
+    "close": 643.1070556640625,
+    "proba_up": 0.4907459474317213,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-14",
+    "ticker": "SPY",
+    "close": 643.1668701171875,
+    "proba_up": 0.4902934271558727,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-15",
+    "ticker": "SPY",
+    "close": 641.6610717773438,
+    "proba_up": 0.49780405887238893,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-18",
+    "ticker": "SPY",
+    "close": 641.5214233398438,
+    "proba_up": 0.501745997377525,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-19",
+    "ticker": "SPY",
+    "close": 638.0410766601562,
+    "proba_up": 0.5015257222555805,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-20",
+    "ticker": "SPY",
+    "close": 636.3457641601562,
+    "proba_up": 0.5040072716244514,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-21",
+    "ticker": "SPY",
+    "close": 633.7928466796875,
+    "proba_up": 0.49531358026880323,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-22",
+    "ticker": "SPY",
+    "close": 643.52587890625,
+    "proba_up": 0.5011421947039975,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-25",
+    "ticker": "SPY",
+    "close": 640.6936645507812,
+    "proba_up": 0.489225679009279,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-26",
+    "ticker": "SPY",
+    "close": 643.3762817382812,
+    "proba_up": 0.4975346530009089,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-27",
+    "ticker": "SPY",
+    "close": 644.8422241210938,
+    "proba_up": 0.49447517618954634,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-28",
+    "ticker": "SPY",
+    "close": 647.1258544921875,
+    "proba_up": 0.4957978801992809,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-08-29",
+    "ticker": "SPY",
+    "close": 643.2666015625,
+    "proba_up": 0.4932104668310201,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-02",
+    "ticker": "SPY",
+    "close": 638.4998168945312,
+    "proba_up": 0.5024645777801119,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-03",
+    "ticker": "SPY",
+    "close": 641.960205078125,
+    "proba_up": 0.5088105204400174,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-04",
+    "ticker": "SPY",
+    "close": 647.3253173828125,
+    "proba_up": 0.5049490169275375,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-05",
+    "ticker": "SPY",
+    "close": 645.4505004882812,
+    "proba_up": 0.49976041402426435,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-08",
+    "ticker": "SPY",
+    "close": 647.0361328125,
+    "proba_up": 0.5071197461091361,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-09",
+    "ticker": "SPY",
+    "close": 648.531982421875,
+    "proba_up": 0.5028295039990529,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-10",
+    "ticker": "SPY",
+    "close": 650.4067993164062,
+    "proba_up": 0.4997576214689157,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-11",
+    "ticker": "SPY",
+    "close": 655.8118286132812,
+    "proba_up": 0.49491026736829624,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-12",
+    "ticker": "SPY",
+    "close": 655.5924072265625,
+    "proba_up": 0.4951636653995358,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-15",
+    "ticker": "SPY",
+    "close": 659.0827026367188,
+    "proba_up": 0.4932586209639001,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-16",
+    "ticker": "SPY",
+    "close": 658.1752319335938,
+    "proba_up": 0.4953665848225476,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-17",
+    "ticker": "SPY",
+    "close": 657.3575439453125,
+    "proba_up": 0.49692246030923887,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-18",
+    "ticker": "SPY",
+    "close": 660.4290161132812,
+    "proba_up": 0.5013234711929884,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-19",
+    "ticker": "SPY",
+    "close": 663.7000122070312,
+    "proba_up": 0.49486080460619414,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-22",
+    "ticker": "SPY",
+    "close": 666.8400268554688,
+    "proba_up": 0.484636278546995,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-23",
+    "ticker": "SPY",
+    "close": 663.2100219726562,
+    "proba_up": 0.48348691848017034,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-24",
+    "ticker": "SPY",
+    "close": 661.0999755859375,
+    "proba_up": 0.49034910431814516,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-25",
+    "ticker": "SPY",
+    "close": 658.0499877929688,
+    "proba_up": 0.4928111237293347,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-26",
+    "ticker": "SPY",
+    "close": 661.8200073242188,
+    "proba_up": 0.49656403177726477,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-29",
+    "ticker": "SPY",
+    "close": 663.6799926757812,
+    "proba_up": 0.4961032430990175,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-09-30",
+    "ticker": "SPY",
+    "close": 666.1799926757812,
+    "proba_up": 0.496465963981299,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-01",
+    "ticker": "SPY",
+    "close": 668.4500122070312,
+    "proba_up": 0.49840638369209495,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-02",
+    "ticker": "SPY",
+    "close": 669.219970703125,
+    "proba_up": 0.49608760602127977,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-03",
+    "ticker": "SPY",
+    "close": 669.2100219726562,
+    "proba_up": 0.498551312981389,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-06",
+    "ticker": "SPY",
+    "close": 671.6099853515625,
+    "proba_up": 0.49728951192303184,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-07",
+    "ticker": "SPY",
+    "close": 669.1199951171875,
+    "proba_up": 0.4969147975994284,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-08",
+    "ticker": "SPY",
+    "close": 673.1099853515625,
+    "proba_up": 0.5016711495003742,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-09",
+    "ticker": "SPY",
+    "close": 671.1599731445312,
+    "proba_up": 0.5033583889671452,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-10",
+    "ticker": "SPY",
+    "close": 653.02001953125,
+    "proba_up": 0.49072943834250143,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-13",
+    "ticker": "SPY",
+    "close": 663.0399780273438,
+    "proba_up": 0.4997508326582231,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-14",
+    "ticker": "SPY",
+    "close": 662.22998046875,
+    "proba_up": 0.4905451184711251,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-15",
+    "ticker": "SPY",
+    "close": 665.1699829101562,
+    "proba_up": 0.4900496317340009,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-16",
+    "ticker": "SPY",
+    "close": 660.6400146484375,
+    "proba_up": 0.4903104043589941,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-17",
+    "ticker": "SPY",
+    "close": 664.3900146484375,
+    "proba_up": 0.4941799071101429,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-20",
+    "ticker": "SPY",
+    "close": 671.2999877929688,
+    "proba_up": 0.4917637253267333,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-21",
+    "ticker": "SPY",
+    "close": 671.2899780273438,
+    "proba_up": 0.48690458533432335,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-22",
+    "ticker": "SPY",
+    "close": 667.7999877929688,
+    "proba_up": 0.4869015283156833,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-23",
+    "ticker": "SPY",
+    "close": 671.760009765625,
+    "proba_up": 0.48943305570165774,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-24",
+    "ticker": "SPY",
+    "close": 677.25,
+    "proba_up": 0.5036289881934106,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-27",
+    "ticker": "SPY",
+    "close": 685.239990234375,
+    "proba_up": 0.501484966384912,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-28",
+    "ticker": "SPY",
+    "close": 687.0599975585938,
+    "proba_up": 0.49691100519541176,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-29",
+    "ticker": "SPY",
+    "close": 687.3900146484375,
+    "proba_up": 0.49257562131998534,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-30",
+    "ticker": "SPY",
+    "close": 679.8300170898438,
+    "proba_up": 0.4741943926818382,
+    "signal": "neutral"
+  },
+  {
+    "Date": "2025-10-31",
+    "ticker": "SPY",
+    "close": 682.0599975585938,
+    "proba_up": 0.48551255114745956,
+    "signal": "neutral"
+  }
+]
